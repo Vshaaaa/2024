@@ -1,0 +1,32 @@
+body {
+	background: #ddffdd;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+p {
+	font-size: 18px;
+	font-weight: 400;
+}
+header{
+	background: #ccffcc;
+}
+.finish{
+	background-color: #98fb98;
+}
+img{
+	border-right: 7px solid white;
+	float: left;
+	border-radius: 1%;
+}
+.osn{
+	img{
+		border-radius: 5%;
+	}
+}
+li{
+	font-size: 18px;
+}
